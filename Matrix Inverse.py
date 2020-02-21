@@ -16,5 +16,5 @@ def matrixTranspose(matrix):
         ]
         print(transposefinal)
 
-myMatrix = [[1, 2, 0, 1], [3, 100, 5, 22],[432,1,0,0]]
+myMatrix = []
 matrixTranspose(myMatrix)
